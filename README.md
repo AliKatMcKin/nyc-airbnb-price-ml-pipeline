@@ -1,7 +1,7 @@
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
 
 ## Project Links
-- W&B Project: https://wandb.ai/alissa-mckinney-western-governors-university/nyc_airbnb
+- W&B Project: GitHub: https://wandb.ai/alissa-mckinney-western-governors-university/nyc_airbnb/reports/nyc_airbnb-report--VmlldzoxNzExMzU1Mg?accessToken=eunvig99reyqw4rxpevay2k07e1tddzz08dlqahfgb8lhbmyngqa2q1a85o7ih7w
 - GitHub Repository: https://github.com/AliKatMcKin/Project-Build-an-ML-Pipeline-Starter
 
 You are working for a property management company renting rooms and properties for short periods of 
