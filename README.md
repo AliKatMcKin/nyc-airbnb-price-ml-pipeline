@@ -78,9 +78,9 @@ wandb login
 ├── config.yaml        # Hydra configuration: all parameters
 ├── MLproject          # MLflow entry point definition
 ├── environment.yml    # Conda environment
+├── rf_config.json     # Exported model hyperparameters
 ├── src/               # Pipeline stage implementations
-├── components/        # Reusable components (data retrieval, splitting)
-└── images/            # Pipeline and artifact diagrams
+└── components/        # Reusable components (data retrieval, splitting)
 ```
 
 ## Attribution
